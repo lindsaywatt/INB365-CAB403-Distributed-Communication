@@ -1,16 +1,20 @@
+Distributed Communication
+=================
+
 INB365 - Systems Programming - Queensland University of Technology
 
 Distributed Communication - Assignment 2 - 2014 (Server/Client & Producer/Consumer Example)
 
 Created By - Lindsay Watt
 
-Dependancies required to compile and run the Server/Client Dietician Program:
-	Server.c
-	Client.c
-	assign2lib.c
-	assign2.h
-	Makefile
-	calories.csv
+Dependancies required to compile and run the Server/Client Dietician Program:  
+	Server.c  
+	Client.c   
+	assign2lib.c    
+	assign2.h    
+	Makefile    
+	calories.csv   
+ 
 
 To compile, run 'make && make clean' command in the dependancy directory.
 
