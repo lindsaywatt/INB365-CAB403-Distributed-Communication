@@ -13,20 +13,20 @@
 
 // food item struct, and linked list node
 typedef struct food {
-	char* name;
-	char* measure;
-	int weight;
-	int calories;
-	int fat;
-	int carbohydrates;
-	int protein;
-	struct food *next;
+    char* name;
+    char* measure;
+    int weight;
+    int calories;
+    int fat;
+    int carbohydrates;
+    int protein;
+    struct food *next;
 } food_t;
 
 typedef struct queue_s {
-	int* queue_i;
-	int head;
-	int tail;
+    int* queue_i;
+    int head;
+    int tail;
 } queue_t;
 
 // function prototypes
